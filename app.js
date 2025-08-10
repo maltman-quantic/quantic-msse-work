@@ -1,1 +1,1 @@
-console.log("Hello World");
+alert("Fire detected")
